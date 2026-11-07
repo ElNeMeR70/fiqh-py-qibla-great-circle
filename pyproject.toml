@@ -1,0 +1,7 @@
+[project]
+name = "fiqh-py-qibla-great-circle"
+version = "1.0.0"
+description = "Spherical Trigonometry Great-Circle Qibla Azimuth Solver (حاسبة اتجاه القبلة الكروية والمسافة الجيوديسية للكعبة)"
+readme = "README.md"
+requires-python = ">=3.10"
+authors = [{ name = "Mahmoud ElNemer", email = "sultanelnemer@gmail.com" }]
